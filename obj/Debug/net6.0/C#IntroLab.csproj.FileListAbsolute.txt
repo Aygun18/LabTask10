@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\bin\Debug\net6.0\C#IntroLab.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\bin\Debug\net6.0\C#IntroLab.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\bin\Debug\net6.0\C#IntroLab.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\bin\Debug\net6.0\C#IntroLab.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\bin\Debug\net6.0\C#IntroLab.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\refint\C#IntroLab.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\C#IntroLab.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\C#IntroLab\obj\Debug\net6.0\ref\C#IntroLab.dll
